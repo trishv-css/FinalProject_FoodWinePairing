@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Custom Food Pairing:"
+        android:text="@string/custom_food_pairing"
         android:id="@+id/titleTView" />
 
     <TableLayout
