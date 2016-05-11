@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food&amp;Wine</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_category">DisplayCategory</string>
+    <string name="title_activity_fab">FabActivity</string>
+    <string name="food">Food:</string>
+    <string name="wine">Wine:</string>
+    <string name="save">Save</string>
+</resources>
